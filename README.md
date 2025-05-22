@@ -1,4 +1,4 @@
 # EADA
 
 
-![图片描述](framwork.jpg)
+![图片描述](./framework.jpg)
